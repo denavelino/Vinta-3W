@@ -1,107 +1,107 @@
-ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Barangay;Status;Beneficiaries;Beneficiary_type
-1;PRC;Assessment;Assessment;Assessment;1753;175304;Mangasee;Finished;1;activity
-2;PRC;Health ;Safety;First Aid;1602;160202;;Finished;4;individuals
-3;PRC;Health ;Health;Rescued/Assisted;1602;160202;;Finished;1;individuals
-4;PRC;Health ;Health;BP Taking;1602;160202;;Finished;31;individuals
-5;PRC;Health;Health;Rescued/Assisted;1043;104305;Cugman;Finished;60;individuals
-6;PRC;Health;Health;Rescued/Assisted;1043;104305;Balulang;Finished;154;individuals
-7;PRC;Relief;Hot Meals;Hot Meals;1043;104305;;Finished;447;individuals
-8;PRC;PSS;PSS;PSP;1043;104305;;Finished;5;individuals
-9;PRC;WASH;WASH;Water;1043;104305;;Finished;12000;liters
-10;PRC;WASH;WASH;Water;1043;104305;;Finished;8000;liters
-11;PRC;Health;Health;BP Taking;1043;104305;;Finished;5;individuals
-12;PRC;Relief;Hot Meals;Hot Meals;1043;104305;;Finished;505;individuals
-13;PRC;WASH;WASH;Water;1043;104305;;Finished;8000;liters
-14;PRC;WASH;WASH;Water;1043;104305;;Finished;4000;liters
-15;PRC;WASH;WASH;Water;1043;104305;Camaman-an;Finished;20000;liters
-16;PRC;WASH;WASH;Water;1043;104305;Consolacion;Finished;2000;liters
-17;PRC;WASH;WASH;Water;1043;104305;Macasandig;Finished;18000;liters
-18;PRC;WASH;WASH;Water;1043;104305;Macasandig;Finished;16000;liters
-19;PRC;WASH;WASH;Water;1043;104305;Consolacion;Finished;20000;liters
-20;PRC;WASH;WASH;Water;1043;104305;;Finished;5000;liters
-21;PRC;WASH;WASH;Water;1043;104305;;Finished;2000;liters
-22;PRC;WASH;WASH;Water;1043;104305;Camaman-an;Finished;14000;liters
-23;PRC;WASH;WASH;Water;1043;104305;Macasandig;Finished;8000;liters
-24;PRC;Health;Health;BP Taking;1043;104305;;Finished;93;individuals
-25;PRC;WASH;WASH;Water;1043;104305;Camaman-an;Finished;6000;liters
-26;PRC;WASH;WASH;Water;1043;104305;Camaman-an;Finished;12000;liters
-27;PRC;WASH;WASH;Water;1043;104305;Camaman-an;Finished;6000;liters
-28;PRC;WASH;WASH;Water;1043;104305;Macasandig;Finished;4000;liters
-29;PRC;WASH;WASH;Water;1043;104305;Macasandig;Finished;4000;liters
-30;PRC;WASH;WASH;Water;1043;104305;Macasandig;Finished;4000;liters
-31;PRC;WASH;WASH;Water;1043;104305;;Finished;6000;liters
-32;PRC;WASH;WASH;Water;1043;104305;;Finished;5000;liters
-33;PRC;WASH;WASH;Water;1043;104305;Macasandig;Finished;18000;liters
-34;PRC;WASH;WASH;Water;1043;104305;Macasandig;Finished;7000;liters
-35;Qatar Red Cross;WASH;Non-Food Items;Jerry Can (20L);1043;104305;;Finished;116;families
-36;PRC;Assessment;Assessment;Assessment;1043;104305;;Finished;1;activity
-38;PRC;Health ;Safety;First Aid;722;72217;;Finished;1;individuals
-39;PRC;Health ;Health;BP Taking;722;72217;;Finished;20;individuals
-40;PRC;Health ;Health;Rescued/Assisted;1124;112402;;Finished;339;individuals
-41;PRC;Health ;Safety;First Aid;1124;112402;;Finished;8;individuals
-42;PRC;Relief;Hot Meals;Hot Meals;1124;112402;;Finished;300;individuals
-43;PRC;PSS;PSS;Welfare Desk;1124;112402;;Finished;1;
-44;PRC;Health;Health;BP Taking;1124;112402;;Finished;199;individuals
-45;PRC;Relief;Food Items;Food Items (2-3 day Ration 5-4-4);1124;112402;;Finished;219;families
-46;PRC;Relief;Hot Meals;Hot Meals;1124;112402;;Finished;312;individuals
-47;PRC;Relief;Hot Meals;Hot Meals;1124;112402;;Finished;196;individuals
-48;PRC;Relief;Hot Meals;Hot Meals;1124;112402;;Finished;196;individuals
-49;PRC;Health ;Safety;First Aid;1124;112402;;Finished;2;individuals
-50;PRC;Health ;Safety;First Aid;1124;112402;;Finished;8;individuals
-51;PRC;Relief;Food Items;Food Items (2-3 day Ration 5-4-4);1124;112402;Dominga;Finished;46;families
-52;PRC;Relief;Food Items;Food Items (2-3 day Ration 5-4-4);1124;112402;Lamanan;Finished;33;families
-53;PRC;Relief;Hot Meals;Hot Meals;1124;112402;;Finished;170;individuals
-54;PRC;Relief;Hot Meals;Hot Meals;1124;112402;;Finished;480;individuals
-55;PRC;Relief;Hot Meals;Hot Meals;1124;112402;;Finished;150;individuals
-56;PRC;Relief;Hot Meals;Hot Meals;1124;112402;;Finished;430;individuals
-57;PRC;Relief;Hot Meals;Hot Meals;1124;112402;;Finished;210;individuals
-58;PRC;Relief;Hot Meals;Hot Meals;1124;112402;;Finished;205;individuals
-59;PRC;Relief;Food Items;Food Items (2-3 day Ration 5-4-4);1124;112402;Dominga;Finished;16;families
-60;PRC;Relief;Food Items;Food Items (2-3 day Ration 5-4-4);1124;112402;Lamanan;Finished;25;families
-61;PRC;Relief;Food Items;Food Items (2-3 day Ration 5-4-4);1124;112402;Mandug;Finished;117;families
-62;PRC;Relief;Food Items;Food Items (2-3 day Ration 5-4-4);1124;112402;Lacson;Finished;17;families
-63;PRC;Assessment;Assessment;Assessment;972;97223;;Finished;1;activity
-64;PRC;Health;Health;Transported;1035;103504;;Finished;1;individuals
-65;PRC;PSS;PSS;Welfare Desk;1035;103504;;Finished;1;station
-66;PRC;PSS;PSS;Welfare Desk;1035;103504;;Finished;1;station
-67;PRC;PSS;PSS;Welfare Desk;1035;103504;;Finished;1;station
-68;PRC;Relief;Hot Meals;Hot Meals;1035;103504;;Finished;390;individuals
-69;PRC;PSS;PSS;PSP;1035;103504;;Finished;383;individuals
-72;PRC;Health ;Safety;First Aid;1035;103504;;Finished;5;individuals
-73;PRC;Health ;Health;BP Taking;1035;103504;;Finished;115;individuals
-74;PRC;Assessment;Assessment;Assessment;983;98306;;Finished;1;activity
-75;PRC;Assessment;Assessment;Assessment;1013;101309;;Finished;1;activity
-76;PRC;Assessment;Assessment;Assessment;972;97205;;Finished;1;activity
-77;PRC;Assessment;Assessment;Assessment;1536;153613;;Finished;1;activity
-78;PRC;Relief;Hot Meals;Hot Meals;1182;118206;;Finished;288;individuals
-79;PRC;Relief;Hot Meals;Hot Meals;1182;118208;;Finished;98;individuals
-80;PRC;Assessment;Assessment;Assessment;1035;103518;;Finished;1;activity
-81;PRC;Assessment;Assessment;Assessment;1013;101318;;Finished;1;activity
-82;PRC;Assessment;Assessment;Assessment;972;97219;;Finished;1;activity
-83;PRC;Assessment;Assessment;Assessment;972;97220;;Finished;1;activity
-84;PRC;Relief;Hot Meals;Hot Meals;1667;166724;;Finished;38;individuals
-85;PRC;PSS;PSS;PSP;1667;166724;;Finished;473;individuals
-86;PRC;PSS;PSS;Welfare Desk;1667;166724;;Finished;1;station
-87;PRC;PSS;PSS;Welfare Desk;1667;166724;;Finished;1;station
-88;PRC;PSS;PSS;Welfare Desk;1667;166724;;Finished;1;station
-89;PRC;Relief;Hot Meals;Hot Meals;1667;166724;;Finished;387;individuals
-90;PRC;Health ;Health;BP Taking;1667;166724;;Finished;92;individuals
-91;PRC;Assessment;Assessment;Assessment;1013;101320;;Finished;1;activity
-92;PRC;Assessment;Assessment;Assessment;1035;103522;;Finished;1;activity
-93;IFRC;Relief;Non-Food Items;Sleeping Kit (Blanket);1035;103522;Dalama;Finished;115;families
-94;IFRC;Relief;Non-Food Items;Sleeping Kit (Mat);1035;103522;Dalama;Finished;115;families
-95;IFRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);1035;103522;Dalama;Finished;115;families
-96;IFRC;WASH;Non-Food Items;Jerry Can (10L);1035;103522;Dalama;Finished;115;families
-97;IFRC;WASH;Non-Food Items;Hygiene Kit;1035;103522;Dalama;Finished;115;families
-100;PRC;Relief;Hot Meals;Hot Meals;712;;;Finished;75;individuals
-101;PRC;Relief;Hot Meals;Hot Meals;712;;;Finished;54;individuals
-102;PRC;Relief;Hot Meals;Hot Meals;722;;;Finished;184;individuals
-103;PRC;Relief;Hot Meals;Hot Meals;1182;;;Finished;155;individuals
-104;PRC;Relief;Hot Meals;Hot Meals;1182;;;Finished;211;individuals
-105;PRC;Relief;Hot Meals;Hot Meals;1123;;;Finished;2100;individuals
-106;PRC;Health ;Health;Rescued/Assisted;1035;;;Finished;40;individuals
-107;PRC;Relief;Water;Bottled Water;1667;;;Finished;16;individuals
-108;PRC;Health ;Health;Rescued/Assisted;972;;;Finished;15;individuals
-109;PRC;Relief;Water;Bottled Water;972;;;Finished;300;individuals
-110;PRC;Relief;Hot Meals;Bread;972;;;Finished;300;individuals
-111;PRC;PSS;PSS;PSP;972;;;Finished;21;individuals
+"ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Barangay;Status;Beneficiaries;Beneficiary_type"
+"1;PRC;Assessment;Assessment;Assessment;1753;175304;Mangasee;Finished;1;activity"
+"2;PRC;Health ;Safety;First Aid;1602;160202;;Finished;4;individuals"
+"3;PRC;Health ;Health;Rescued/Assisted;1602;160202;;Finished;1;individuals"
+"4;PRC;Health ;Health;BP Taking;1602;160202;;Finished;31;individuals"
+"5;PRC;Health;Health;Rescued/Assisted;1043;104305;Cugman;Finished;60;individuals"
+"6;PRC;Health;Health;Rescued/Assisted;1043;104305;Balulang;Finished;154;individuals"
+"7;PRC;Relief;Hot Meals;Hot Meals;1043;104305;;Finished;447;individuals"
+"8;PRC;PSS;PSS;PSP;1043;104305;;Finished;5;individuals"
+"9;PRC;WASH;WASH;Water;1043;104305;;Finished;12000;liters"
+"10;PRC;WASH;WASH;Water;1043;104305;;Finished;8000;liters"
+"11;PRC;Health;Health;BP Taking;1043;104305;;Finished;5;individuals"
+"12;PRC;Relief;Hot Meals;Hot Meals;1043;104305;;Finished;505;individuals"
+"13;PRC;WASH;WASH;Water;1043;104305;;Finished;8000;liters"
+"14;PRC;WASH;WASH;Water;1043;104305;;Finished;4000;liters"
+"15;PRC;WASH;WASH;Water;1043;104305;Camaman-an;Finished;20000;liters"
+"16;PRC;WASH;WASH;Water;1043;104305;Consolacion;Finished;2000;liters"
+"17;PRC;WASH;WASH;Water;1043;104305;Macasandig;Finished;18000;liters"
+"18;PRC;WASH;WASH;Water;1043;104305;Macasandig;Finished;16000;liters"
+"19;PRC;WASH;WASH;Water;1043;104305;Consolacion;Finished;20000;liters"
+"20;PRC;WASH;WASH;Water;1043;104305;;Finished;5000;liters"
+"21;PRC;WASH;WASH;Water;1043;104305;;Finished;2000;liters"
+"22;PRC;WASH;WASH;Water;1043;104305;Camaman-an;Finished;14000;liters"
+"23;PRC;WASH;WASH;Water;1043;104305;Macasandig;Finished;8000;liters"
+"24;PRC;Health;Health;BP Taking;1043;104305;;Finished;93;individuals"
+"25;PRC;WASH;WASH;Water;1043;104305;Camaman-an;Finished;6000;liters"
+"26;PRC;WASH;WASH;Water;1043;104305;Camaman-an;Finished;12000;liters"
+"27;PRC;WASH;WASH;Water;1043;104305;Camaman-an;Finished;6000;liters"
+"28;PRC;WASH;WASH;Water;1043;104305;Macasandig;Finished;4000;liters"
+"29;PRC;WASH;WASH;Water;1043;104305;Macasandig;Finished;4000;liters"
+"30;PRC;WASH;WASH;Water;1043;104305;Macasandig;Finished;4000;liters"
+"31;PRC;WASH;WASH;Water;1043;104305;;Finished;6000;liters"
+"32;PRC;WASH;WASH;Water;1043;104305;;Finished;5000;liters"
+"33;PRC;WASH;WASH;Water;1043;104305;Macasandig;Finished;18000;liters"
+"34;PRC;WASH;WASH;Water;1043;104305;Macasandig;Finished;7000;liters"
+"35;Qatar Red Cross;WASH;Non-Food Items;Jerry Can (20L);1043;104305;;Finished;116;families"
+"36;PRC;Assessment;Assessment;Assessment;1043;104305;;Finished;1;activity"
+"38;PRC;Health ;Safety;First Aid;722;72217;;Finished;1;individuals"
+"39;PRC;Health ;Health;BP Taking;722;72217;;Finished;20;individuals"
+"40;PRC;Health ;Health;Rescued/Assisted;1124;112402;;Finished;339;individuals"
+"41;PRC;Health ;Safety;First Aid;1124;112402;;Finished;8;individuals"
+"42;PRC;Relief;Hot Meals;Hot Meals;1124;112402;;Finished;300;individuals"
+"43;PRC;PSS;PSS;Welfare Desk;1124;112402;;Finished;1;"
+"44;PRC;Health;Health;BP Taking;1124;112402;;Finished;199;individuals"
+"45;PRC;Relief;Food Items;Food Items (2-3 day Ration 5-4-4);1124;112402;;Finished;219;families"
+"46;PRC;Relief;Hot Meals;Hot Meals;1124;112402;;Finished;312;individuals"
+"47;PRC;Relief;Hot Meals;Hot Meals;1124;112402;;Finished;196;individuals"
+"48;PRC;Relief;Hot Meals;Hot Meals;1124;112402;;Finished;196;individuals"
+"49;PRC;Health ;Safety;First Aid;1124;112402;;Finished;2;individuals"
+"50;PRC;Health ;Safety;First Aid;1124;112402;;Finished;8;individuals"
+"51;PRC;Relief;Food Items;Food Items (2-3 day Ration 5-4-4);1124;112402;Dominga;Finished;46;families"
+"52;PRC;Relief;Food Items;Food Items (2-3 day Ration 5-4-4);1124;112402;Lamanan;Finished;33;families"
+"53;PRC;Relief;Hot Meals;Hot Meals;1124;112402;;Finished;170;individuals"
+"54;PRC;Relief;Hot Meals;Hot Meals;1124;112402;;Finished;480;individuals"
+"55;PRC;Relief;Hot Meals;Hot Meals;1124;112402;;Finished;150;individuals"
+"56;PRC;Relief;Hot Meals;Hot Meals;1124;112402;;Finished;430;individuals"
+"57;PRC;Relief;Hot Meals;Hot Meals;1124;112402;;Finished;210;individuals"
+"58;PRC;Relief;Hot Meals;Hot Meals;1124;112402;;Finished;205;individuals"
+"59;PRC;Relief;Food Items;Food Items (2-3 day Ration 5-4-4);1124;112402;Dominga;Finished;16;families"
+"60;PRC;Relief;Food Items;Food Items (2-3 day Ration 5-4-4);1124;112402;Lamanan;Finished;25;families"
+"61;PRC;Relief;Food Items;Food Items (2-3 day Ration 5-4-4);1124;112402;Mandug;Finished;117;families"
+"62;PRC;Relief;Food Items;Food Items (2-3 day Ration 5-4-4);1124;112402;Lacson;Finished;17;families"
+"63;PRC;Assessment;Assessment;Assessment;972;97223;;Finished;1;activity"
+"64;PRC;Health;Health;Transported;1035;103504;;Finished;1;individuals"
+"65;PRC;PSS;PSS;Welfare Desk;1035;103504;;Finished;1;station"
+"66;PRC;PSS;PSS;Welfare Desk;1035;103504;;Finished;1;station"
+"67;PRC;PSS;PSS;Welfare Desk;1035;103504;;Finished;1;station"
+"68;PRC;Relief;Hot Meals;Hot Meals;1035;103504;;Finished;390;individuals"
+"69;PRC;PSS;PSS;PSP;1035;103504;;Finished;383;individuals"
+"72;PRC;Health ;Safety;First Aid;1035;103504;;Finished;5;individuals"
+"73;PRC;Health ;Health;BP Taking;1035;103504;;Finished;115;individuals"
+"74;PRC;Assessment;Assessment;Assessment;983;98306;;Finished;1;activity"
+"75;PRC;Assessment;Assessment;Assessment;1013;101309;;Finished;1;activity"
+"76;PRC;Assessment;Assessment;Assessment;972;97205;;Finished;1;activity"
+"77;PRC;Assessment;Assessment;Assessment;1536;153613;;Finished;1;activity"
+"78;PRC;Relief;Hot Meals;Hot Meals;1182;118206;;Finished;288;individuals"
+"79;PRC;Relief;Hot Meals;Hot Meals;1182;118208;;Finished;98;individuals"
+"80;PRC;Assessment;Assessment;Assessment;1035;103518;;Finished;1;activity"
+"81;PRC;Assessment;Assessment;Assessment;1013;101318;;Finished;1;activity"
+"82;PRC;Assessment;Assessment;Assessment;972;97219;;Finished;1;activity"
+"83;PRC;Assessment;Assessment;Assessment;972;97220;;Finished;1;activity"
+"84;PRC;Relief;Hot Meals;Hot Meals;1667;166724;;Finished;38;individuals"
+"85;PRC;PSS;PSS;PSP;1667;166724;;Finished;473;individuals"
+"86;PRC;PSS;PSS;Welfare Desk;1667;166724;;Finished;1;station"
+"87;PRC;PSS;PSS;Welfare Desk;1667;166724;;Finished;1;station"
+"88;PRC;PSS;PSS;Welfare Desk;1667;166724;;Finished;1;station"
+"89;PRC;Relief;Hot Meals;Hot Meals;1667;166724;;Finished;387;individuals"
+"90;PRC;Health ;Health;BP Taking;1667;166724;;Finished;92;individuals"
+"91;PRC;Assessment;Assessment;Assessment;1013;101320;;Finished;1;activity"
+"92;PRC;Assessment;Assessment;Assessment;1035;103522;;Finished;1;activity"
+"93;IFRC;Relief;Non-Food Items;Sleeping Kit (Blanket);1035;103522;Dalama;Finished;115;families"
+"94;IFRC;Relief;Non-Food Items;Sleeping Kit (Mat);1035;103522;Dalama;Finished;115;families"
+"95;IFRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);1035;103522;Dalama;Finished;115;families"
+"96;IFRC;WASH;Non-Food Items;Jerry Can (10L);1035;103522;Dalama;Finished;115;families"
+"97;IFRC;WASH;Non-Food Items;Hygiene Kit;1035;103522;Dalama;Finished;115;families"
+"100;PRC;Relief;Hot Meals;Hot Meals;712;;;Finished;75;individuals"
+"101;PRC;Relief;Hot Meals;Hot Meals;712;;;Finished;54;individuals"
+"102;PRC;Relief;Hot Meals;Hot Meals;722;;;Finished;184;individuals"
+"103;PRC;Relief;Hot Meals;Hot Meals;1182;;;Finished;155;individuals"
+"104;PRC;Relief;Hot Meals;Hot Meals;1182;;;Finished;211;individuals"
+"105;PRC;Relief;Hot Meals;Hot Meals;1123;;;Finished;2100;individuals"
+"106;PRC;Health ;Health;Rescued/Assisted;1035;;;Finished;40;individuals"
+"107;PRC;Relief;Water;Bottled Water;1667;;;Finished;16;individuals"
+"108;PRC;Health ;Health;Rescued/Assisted;972;;;Finished;15;individuals"
+"109;PRC;Relief;Water;Bottled Water;972;;;Finished;300;individuals"
+"110;PRC;Relief;Hot Meals;Bread;972;;;Finished;300;individuals"
+"111;PRC;PSS;PSS;PSP;972;;;Finished;21;individuals"
