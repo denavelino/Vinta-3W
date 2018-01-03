@@ -1,183 +1,183 @@
-ID,Organisation,Sector,Subsector,Service,Province_CODE,Municipality_CODE,Barangay,Status,Beneficiaries,Beneficiary_type
-1,PRC,Assessment,Assessment,Assessment,1536,153601,,Finished,1,activity
-2,PRC,Assessment,Assessment,Assessment,1753,175304,Mangasee,Finished,1,activity
-3,PRC,Health,Safety,First Aid,1602,160202,,Finished,4,individuals
-4,PRC,Health,Health,Rescued/Assisted,1602,160202,,Finished,1,individuals
-5,PRC,Health,Health,BP Taking,1602,160202,,Finished,31,individuals
-6,PRC,Health,Health,Rescued/Assisted,1043,104305,Cugman,Finished,60,individuals
-7,PRC,Health,Health,Rescued/Assisted,1043,104305,Balulang,Finished,154,individuals
-9,PRC,Relief,Hot Meals,Hot Meals,1043,104305,,Finished,447,individuals
-10,PRC,Welfare,PSS,PSP,1043,104305,,Finished,5,individuals
-11,PRC,WASH,Water,Water,1043,104305,,Finished,12000,liters
-12,PRC,WASH,Water,Water,1043,104305,,Finished,8000,liters
-14,PRC,Relief,Hot Meals,Hot Meals,1043,104305,,Finished,505,individuals
-15,PRC,WASH,Water,Water,1043,104305,,Finished,8000,liters
-16,PRC,WASH,Water,Water,1043,104305,,Finished,4000,liters
-17,PRC,WASH,Water,Water,1043,104305,Camaman-an,Finished,20000,liters
-18,PRC,WASH,Water,Water,1043,104305,Consolacion,Finished,2000,liters
-19,PRC,WASH,Water,Water,1043,104305,Macasandig,Finished,18000,liters
-20,PRC,WASH,Water,Water,1043,104305,Macasandig,Finished,16000,liters
-21,PRC,WASH,Water,Water,1043,104305,Consolacion,Finished,20000,liters
-22,PRC,WASH,Water,Water,1043,104305,,Finished,5000,liters
-23,PRC,WASH,Water,Water,1043,104305,,Finished,2000,liters
-24,PRC,WASH,Water,Water,1043,104305,Camaman-an,Finished,14000,liters
-25,PRC,WASH,Water,Water,1043,104305,Macasandig,Finished,8000,liters
-26,PRC,Health,Health,BP Taking,1043,104305,,Finished,57,individuals
-27,PRC,WASH,Water,Water,1043,104305,Camaman-an,Finished,6000,liters
-28,PRC,WASH,Water,Water,1043,104305,Camaman-an,Finished,12000,liters
-29,PRC,WASH,Water,Water,1043,104305,Camaman-an,Finished,6000,liters
-30,PRC,WASH,Water,Water,1043,104305,Macasandig,Finished,4000,liters
-31,PRC,WASH,Water,Water,1043,104305,Macasandig,Finished,4000,liters
-32,PRC,WASH,Water,Water,1043,104305,Macasandig,Finished,4000,liters
-33,PRC,WASH,Water,Water,1043,104305,,Finished,6000,liters
-34,PRC,WASH,Water,Water,1043,104305,,Finished,5000,liters
-35,PRC,WASH,Water,Water,1043,104305,Macasandig,Finished,18000,liters
-36,PRC,WASH,Water,Water,1043,104305,Macasandig,Finished,7000,liters
-37,Qatar Red Cross,WASH,Non-Food Items,Jerry Can (20L),1043,104305,,Finished,116,families
-38,PRC,Assessment,Assessment,Assessment,1043,104305,,Finished,1,activity
-39,PRC,WASH,Water,Water,1043,104305,Camaman-an,Finished,7000,liters
-40,PRC,WASH,Water,Water,1043,104305,,Finished,2000,liters
-41,PRC,WASH,Water,Water,1043,104305,Macasandig,Finished,12000,liters
-42,PRC,WASH,Water,Water,1043,104305,9,Finished,3000,liters
-43,PRC,WASH,Water,Water,1043,104305,Cugman,Finished,10000,liters
-44,PRC,Health,Health,BP Taking,1043,104305,Macasandig,Finished,98,individuals
-45,PRC,Welfare,PSS,Welfare Desk,1043,104305,,Finished,1,desk
-46,PRC,WASH,Water,Water,1043,104305,Camaman-an,Finished,22000,liters
-47,PRC,WASH,Water,Water,1043,104305,Camaman-an,Finished,6000,liters
-48,PRC,WASH,Water,Water,1043,104305,Camaman-an,Finished,6000,liters
-49,PRC,WASH,Water,Water,1043,104305,Macasandig,Finished,12000,liters
-50,PRC,WASH,Water,Water,1043,104305,9,Finished,2000,liters
-51,PRC,WASH,Water,Water,1043,104305,Camaman-an,Finished,12000,liters
-52,PRC,WASH,Water,Water,1043,104305,Macasandig,Finished,12000,liters
-53,PRC,WASH,Water,Water,1043,104305,Macasandig,Finished,12000,liters
-54,PRC,WASH,Water,Water,1043,104305,Camaman-an,Finished,10000,liters
-55,PRC,WASH,Water,Water,1043,104305,Carmen,Finished,2000,liters
-56,PRC,WASH,Water,Water,1043,104305,Macasandig,Finished,5000,liters
-57,PRC,WASH,Water,Water,1043,104305,Macasandig,Finished,5000,liters
-58,PRC,WASH,Water,Water,1043,104305,9,Finished,3000,liters
-59,PRC,WASH,Water,Water Bladder 5K,1043,104305,Camaman-an,Finished,,
-60,PRC,WASH,Water,Water Bladder 10K,1043,104305,Macasandig,Finished,,
-61,PRC,WASH,Water,Water,1043,104305,Carmen,Finished,3000,liters
-62,PRC,WASH,Water,Water,1043,104305,Macasandig,Finished,4000,liters
-63,PRC,WASH,Water,Water,1043,104305,Macasandig,Finished,3000,liters
-64,PRC,WASH,Water,Water,1043,104305,9,Finished,2000,liters
-66,PRC,Health,Safety,First Aid,722,72217,,Finished,1,individuals
-67,PRC,Health,Health,BP Taking,722,72217,,Finished,20,individuals
-68,PRC,Welfare,PSS,Welfare Desk,722,72217,,Finished,1,desk
-69,PRC,Health,Health,Rescued/Assisted,1124,112402,,Finished,339,individuals
-71,PRC,Relief,Hot Meals,Hot Meals,1124,112402,,Finished,300,individuals
-72,PRC,Welfare,PSS,Welfare Desk,1124,112402,,Finished,1,desk
-74,PRC,Relief,Food Items,Food Items (2-3 day Ration 5-4-4),1124,112402,,Finished,219,families
-75,PRC,Relief,Hot Meals,Hot Meals,1124,112402,,Finished,312,individuals
-76,PRC,Relief,Hot Meals,Hot Meals,1124,112402,,Finished,196,individuals
-77,PRC,Relief,Hot Meals,Hot Meals,1124,112402,,Finished,504,individuals
-78,PRC,Health,Safety,First Aid,1124,112402,,Finished,2,individuals
-79,PRC,Health,Safety,First Aid,1124,112402,,Finished,8,individuals
-80,PRC,Relief,Food Items,Food Items (2-3 day Ration 5-4-4),1124,112402,Dominga,Finished,46,families
-81,PRC,Relief,Food Items,Food Items (2-3 day Ration 5-4-4),1124,112402,Lamanan,Finished,33,families
-82,PRC,Relief,Hot Meals,Hot Meals,1124,112402,,Finished,170,individuals
-83,PRC,Relief,Hot Meals,Hot Meals,1124,112402,,Finished,480,individuals
-84,PRC,Relief,Hot Meals,Hot Meals,1124,112402,,Finished,150,individuals
-85,PRC,Relief,Hot Meals,Hot Meals,1124,112402,,Finished,430,individuals
-86,PRC,Relief,Hot Meals,Hot Meals,1124,112402,,Finished,201,individuals
-87,PRC,Relief,Hot Meals,Hot Meals,1124,112402,,Finished,205,individuals
-88,PRC,Relief,Food Items,Food Items (2-3 day Ration 5-4-4),1124,112402,Dominga,Finished,16,families
-89,PRC,Relief,Food Items,Food Items (2-3 day Ration 5-4-4),1124,112402,Lamanan,Finished,25,families
-90,PRC,Relief,Food Items,Food Items (2-3 day Ration 5-4-4),1124,112402,Mandug,Finished,117,families
-91,PRC,Relief,Food Items,Food Items (2-3 day Ration 5-4-4),1124,112402,Lacson,Finished,17,families
-92,PRC,Relief,Hot Meals,Hot Meals,1124,112402,19-B,Finished,288,individuals
-93,PRC,Relief,Hot Meals,Hot Meals,1124,112402,Tigato,Finished,150,individuals
-94,PRC,Health,Health,BP Taking,1124,112402,,Finished,28,individuals
-95,PRC,Health,Health,BP Taking,1124,112402,9-A,Finished,54,individuals
-96,PRC,Health,Health,BP Taking,1124,112402,10-A,Finished,40,individuals
-97,PRC,Health,Health,BP Taking,1124,112402,5-A,Finished,85,individuals
-98,PRC,Health,Health,BP Taking,1124,112402,Mandug,Finished,24,individuals
-99,PRC,Health,Health,BP Taking,1124,112402,,Finished,60,individuals
-100,PRC,Health,Health,BP Taking,1124,112402,Waan,Finished,19,individuals
-101,PRC,Health,Health,BP Taking,1124,112402,Tigato,Finished,27,individuals
-102,PRC,Health,Safety,First Aid,1124,112402,,Finished,1,individuals
-103,PRC,Health,Safety,First Aid,1124,112402,,Finished,8,individuals
-104,PRC,Health,Safety,First Aid,1124,112402,,Finished,2,individuals
-105,PRC,Welfare,PSS,PSP,972,97223,,Finished,21,individuals
-106,PRC,Assessment,Assessment,Assessment,972,97223,,Finished,1,activity
-107,PRC,Welfare,PSS,PSP,972,97223,Canupong,Finished,14,individuals
-108,IFRC,Relief,Non-Food Items,Clothings,972,97223,Sibalic,Finished,26,families
-109,IFRC,WASH,Non-Food Items,Hygiene Kit,972,97223,Sibalic,Finished,26,families
-110,IFRC,Relief,Non-Food Items,Clothings,972,97223,Panganuran,Finished,95,families
-111,IFRC,WASH,Non-Food Items,Hygiene Kit,972,97223,Panganuran,Finished,95,families
-112,PRC,Health,Health,Transported,1035,103504,,Finished,1,individuals
-113,PRC,Welfare,PSS,Welfare Desk,1035,103504,Hinaplanon,Finished,1,station
-114,PRC,Welfare,PSS,Welfare Desk,1035,103504,Tubod,Finished,1,station
-115,PRC,Welfare,PSS,Welfare Desk,1035,103504,Tubod,Finished,1,station
-116,PRC,Relief,Hot Meals,Hot Meals,1035,103504,,Finished,390,individuals
-117,PRC,Welfare,PSS,PSP,1035,103504,,Finished,383,individuals
-118,PRC,Welfare,PSS,PSP,1035,103504,,Finished,211,individuals
-120,PRC,Health,Safety,First Aid,1035,103504,,Finished,5,individuals
-121,PRC,Health,Health,BP Taking,1035,103504,,Finished,115,individuals
-122,PRC,Welfare,PSS,PSP,1035,103504,,Finished,874,individuals
-123,PRC,Assessment,Assessment,Assessment,983,98306,,Finished,1,activity
-124,PRC,Health,Safety,Rescued/Assisted,983,98306,Banker,Finished,50,individuals
-125,PRC,Assessment,Assessment,Assessment,1013,101309,,Finished,1,activity
-126,PRC,Assessment,Assessment,Assessment,972,97205,,Finished,1,activity
-127,IFRC,Relief,Non-Food Items,Clothings,972,97206,Baybay,Finished,75,families
-128,IFRC,WASH,Non-Food Items,Hygiene Kit,972,97206,Baybay,Finished,75,families
-129,IFRC,Relief,Non-Food Items,Clothings,972,97206,Candelaria,Finished,27,families
-130,IFRC,WASH,Non-Food Items,Hygiene Kit,972,97206,Candelaria,Finished,27,families
-131,IFRC,Relief,Non-Food Items,Clothings,972,97206,Kayok,Finished,60,families
-132,IFRC,WASH,Non-Food Items,Hygiene Kit,972,97206,Kayok,Finished,60,families
-133,PRC,Assessment,Assessment,Assessment,1536,153613,,Finished,1,activity
-134,PRC,Relief,Hot Meals,Hot Meals,1182,118206,,Finished,288,individuals
-135,PRC,Relief,Hot Meals,Hot Meals,1182,118208,,Finished,98,individuals
-136,PRC,Health,Safety,Rescued/Assisted,983,98313,,Finished,105,individuals
-137,PRC,Assessment,Assessment,Assessment,1035,103518,,Finished,1,activity
-138,Puregold,Relief,Food Items,Food Items (Assorted/Xmas Package),1035,103518,,Finished,293,families
-139,IFRC,Relief,Non-Food Items,Sleeping Kit (Blanket),1035,103518,,Finished,293,families
-140,IFRC,Relief,Non-Food Items,Sleeping Kit (Mat),1035,103518,,Finished,293,families
-141,IFRC,Relief,Non-Food Items,Sleeping Kit (Mosquito Net),1035,103518,,Finished,293,families
-142,IFRC,WASH,Non-Food Items,Jerry Can (10L),1035,103518,,Finished,293,families
-143,IFRC,WASH,Non-Food Items,Hygiene Kit,1035,103518,,Finished,293,families
-144,IFRC,Relief,Non-Food Items,Tarpaulin,1035,103518,,Finished,293,families
-145,IFRC,Relief,Cash,"Cash-for-Relief 3,000",1035,103518,,Finished,293,families
-147,PRC,Assessment,Assessment,Assessment,1013,101318,,Finished,1,activity
-148,PRC,Assessment,Assessment,Assessment,972,97219,,Finished,1,activity
-149,PRC,Assessment,Assessment,Assessment,972,97220,,Finished,1,activity
-150,PRC,Relief,Hot Meals,Hot Meals,1667,166724,Taft,Finished,38,individuals
-151,PRC,Welfare,PSS,PSP,1667,166724,Taft,Finished,638,individuals
-152,PRC,Welfare,PSS,Welfare Desk,1667,166724,Lipata,Finished,1,station
-153,PRC,Welfare,PSS,Welfare Desk,1667,166724,San Mariano,Finished,1,station
-155,PRC,Relief,Hot Meals,Hot Meals,1667,166724,,Finished,387,individuals
-156,PRC,Health,Health,BP Taking,1667,166724,,Finished,92,individuals
-157,PRC,Relief,Hot Meals,Hot Meals,712,71242,,Finished,54,individuals
-158,PRC,Welfare,PSS,Welfare Desk,712,71242,,Finished,1,desk
-159,PRC,Assessment,Assessment,Assessment,1013,101320,,Finished,1,activity
-160,PRC,Assessment,Assessment,Assessment,1035,103522,,Finished,1,activity
-161,PRC,Welfare,PSS,PSP,1035,103522,Dalama,Finished,201,individuals
-162,Puregold,Relief,Food Items,Food Items (Assorted/Xmas Package),1035,103522,Dalama,Finished,127,families
-163,PRC,Welfare,PSS,PSP,1035,103522,Dalama,Finished,83,individuals
-164,PRC,Welfare,PSS,PSP,1035,103522,Dalama,Finished,101,individuals
-165,IFRC,Relief,Non-Food Items,Sleeping Kit (Blanket),1035,103522,Dalama,Finished,115,families
-166,IFRC,Relief,Non-Food Items,Sleeping Kit (Mat),1035,103522,Dalama,Finished,115,families
-167,IFRC,Relief,Non-Food Items,Sleeping Kit (Mosquito Net),1035,103522,Dalama,Finished,115,families
-168,IFRC,WASH,Non-Food Items,Jerry Can (10L),1035,103522,Dalama,Finished,115,families
-169,IFRC,WASH,Non-Food Items,Hygiene Kit,1035,103522,Dalama,Finished,115,families
-170,IFRC,Relief,Cash,"Cash-for-Relief 3,000",1035,103522,Dalama,Finished,115,families
-171,PRC,Assessment,Assessment,Assessment,1536,153629,,Finished,1,activity
-173,PRC,Welfare,PSS,Welfare Desk,972,97332,,Finished,1,desk
-174,PRC,Relief,Hot Meals,Hot Meals,712,,Tagbilaran,Finished,75,individuals
-175,PRC,Relief,Water,Bottled Water,712,,,Finished,162,individuals
-176,PRC,Relief,Hot Meals,Hot Meals,712,,,Finished,33,individuals
-177,PRC,Relief,Hot Meals,Hot Meals,1013,,,Finished,117,individuals
-178,PRC,Relief,Hot Meals,Hot Meals,722,,,Finished,184,individuals
-179,PRC,Relief,Hot Meals,Hot Meals,1182,,San Juan,Finished,155,individuals
-180,PRC,Relief,Hot Meals,Hot Meals,1182,,Magsaysay,Finished,211,individuals
-181,PRC,Welfare,PSS,Welfare Desk,1182,,,Finished,1,desk
-182,PRC,Relief,Hot Meals,Hot Meals,1123,,,Finished,2100,individuals
-183,PRC,Welfare,PSS,PSP,1123,,,Finished,14,individuals
-184,PRC,Health,Health,Rescued/Assisted,1035,,,Finished,40,individuals
-185,PRC,Welfare,PSS,Welfare Desk,1035,,,Finished,1,station
-186,PRC,Welfare,PSS,Welfare Desk,1035,,,Finished,1,station
-187,PRC,Welfare,PSS,Welfare Desk,1035,,,Finished,1,station
-188,PRC,Relief,Water,Bottled Water,1667,,,Finished,26,individuals
-189,PRC,Health,Health,Rescued/Assisted,972,,,Finished,15,individuals
-190,PRC,Relief,Water,Bottled Water,972,,,Finished,300,individuals
-191,PRC,Relief,Hot Meals,Bread,972,,,Finished,300,individuals
+ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Barangay;Status;Beneficiaries;Beneficiary_type
+1;PRC;Assessment;Assessment;Assessment;1536;153601;;Finished;1;activity
+2;PRC;Assessment;Assessment;Assessment;1753;175304;Mangasee;Finished;1;activity
+3;PRC;Health;Safety;First Aid;1602;160202;;Finished;4;individuals
+4;PRC;Health;Health;Rescued/Assisted;1602;160202;;Finished;1;individuals
+5;PRC;Health;Health;BP Taking;1602;160202;;Finished;31;individuals
+6;PRC;Health;Health;Rescued/Assisted;1043;104305;Cugman;Finished;60;individuals
+7;PRC;Health;Health;Rescued/Assisted;1043;104305;Balulang;Finished;154;individuals
+9;PRC;Relief;Hot Meals;Hot Meals;1043;104305;;Finished;447;individuals
+10;PRC;Welfare;PSS;PSP;1043;104305;;Finished;5;individuals
+11;PRC;WASH;Water;Water;1043;104305;;Finished;12000;liters
+12;PRC;WASH;Water;Water;1043;104305;;Finished;8000;liters
+14;PRC;Relief;Hot Meals;Hot Meals;1043;104305;;Finished;505;individuals
+15;PRC;WASH;Water;Water;1043;104305;;Finished;8000;liters
+16;PRC;WASH;Water;Water;1043;104305;;Finished;4000;liters
+17;PRC;WASH;Water;Water;1043;104305;Camaman-an;Finished;20000;liters
+18;PRC;WASH;Water;Water;1043;104305;Consolacion;Finished;2000;liters
+19;PRC;WASH;Water;Water;1043;104305;Macasandig;Finished;18000;liters
+20;PRC;WASH;Water;Water;1043;104305;Macasandig;Finished;16000;liters
+21;PRC;WASH;Water;Water;1043;104305;Consolacion;Finished;20000;liters
+22;PRC;WASH;Water;Water;1043;104305;;Finished;5000;liters
+23;PRC;WASH;Water;Water;1043;104305;;Finished;2000;liters
+24;PRC;WASH;Water;Water;1043;104305;Camaman-an;Finished;14000;liters
+25;PRC;WASH;Water;Water;1043;104305;Macasandig;Finished;8000;liters
+26;PRC;Health;Health;BP Taking;1043;104305;;Finished;57;individuals
+27;PRC;WASH;Water;Water;1043;104305;Camaman-an;Finished;6000;liters
+28;PRC;WASH;Water;Water;1043;104305;Camaman-an;Finished;12000;liters
+29;PRC;WASH;Water;Water;1043;104305;Camaman-an;Finished;6000;liters
+30;PRC;WASH;Water;Water;1043;104305;Macasandig;Finished;4000;liters
+31;PRC;WASH;Water;Water;1043;104305;Macasandig;Finished;4000;liters
+32;PRC;WASH;Water;Water;1043;104305;Macasandig;Finished;4000;liters
+33;PRC;WASH;Water;Water;1043;104305;;Finished;6000;liters
+34;PRC;WASH;Water;Water;1043;104305;;Finished;5000;liters
+35;PRC;WASH;Water;Water;1043;104305;Macasandig;Finished;18000;liters
+36;PRC;WASH;Water;Water;1043;104305;Macasandig;Finished;7000;liters
+37;Qatar Red Cross;WASH;Non-Food Items;Jerry Can (20L);1043;104305;;Finished;116;families
+38;PRC;Assessment;Assessment;Assessment;1043;104305;;Finished;1;activity
+39;PRC;WASH;Water;Water;1043;104305;Camaman-an;Finished;7000;liters
+40;PRC;WASH;Water;Water;1043;104305;;Finished;2000;liters
+41;PRC;WASH;Water;Water;1043;104305;Macasandig;Finished;12000;liters
+42;PRC;WASH;Water;Water;1043;104305;9;Finished;3000;liters
+43;PRC;WASH;Water;Water;1043;104305;Cugman;Finished;10000;liters
+44;PRC;Health;Health;BP Taking;1043;104305;Macasandig;Finished;98;individuals
+45;PRC;Welfare;PSS;Welfare Desk;1043;104305;;Finished;1;desk
+46;PRC;WASH;Water;Water;1043;104305;Camaman-an;Finished;22000;liters
+47;PRC;WASH;Water;Water;1043;104305;Camaman-an;Finished;6000;liters
+48;PRC;WASH;Water;Water;1043;104305;Camaman-an;Finished;6000;liters
+49;PRC;WASH;Water;Water;1043;104305;Macasandig;Finished;12000;liters
+50;PRC;WASH;Water;Water;1043;104305;9;Finished;2000;liters
+51;PRC;WASH;Water;Water;1043;104305;Camaman-an;Finished;12000;liters
+52;PRC;WASH;Water;Water;1043;104305;Macasandig;Finished;12000;liters
+53;PRC;WASH;Water;Water;1043;104305;Macasandig;Finished;12000;liters
+54;PRC;WASH;Water;Water;1043;104305;Camaman-an;Finished;10000;liters
+55;PRC;WASH;Water;Water;1043;104305;Carmen;Finished;2000;liters
+56;PRC;WASH;Water;Water;1043;104305;Macasandig;Finished;5000;liters
+57;PRC;WASH;Water;Water;1043;104305;Macasandig;Finished;5000;liters
+58;PRC;WASH;Water;Water;1043;104305;9;Finished;3000;liters
+59;PRC;WASH;Water;Water Bladder 5K;1043;104305;Camaman-an;Finished;;
+60;PRC;WASH;Water;Water Bladder 10K;1043;104305;Macasandig;Finished;;
+61;PRC;WASH;Water;Water;1043;104305;Carmen;Finished;3000;liters
+62;PRC;WASH;Water;Water;1043;104305;Macasandig;Finished;4000;liters
+63;PRC;WASH;Water;Water;1043;104305;Macasandig;Finished;3000;liters
+64;PRC;WASH;Water;Water;1043;104305;9;Finished;2000;liters
+66;PRC;Health;Safety;First Aid;722;72217;;Finished;1;individuals
+67;PRC;Health;Health;BP Taking;722;72217;;Finished;20;individuals
+68;PRC;Welfare;PSS;Welfare Desk;722;72217;;Finished;1;desk
+69;PRC;Health;Health;Rescued/Assisted;1124;112402;;Finished;339;individuals
+71;PRC;Relief;Hot Meals;Hot Meals;1124;112402;;Finished;300;individuals
+72;PRC;Welfare;PSS;Welfare Desk;1124;112402;;Finished;1;desk
+74;PRC;Relief;Food Items;Food Items (2-3 day Ration 5-4-4);1124;112402;;Finished;219;families
+75;PRC;Relief;Hot Meals;Hot Meals;1124;112402;;Finished;312;individuals
+76;PRC;Relief;Hot Meals;Hot Meals;1124;112402;;Finished;196;individuals
+77;PRC;Relief;Hot Meals;Hot Meals;1124;112402;;Finished;504;individuals
+78;PRC;Health;Safety;First Aid;1124;112402;;Finished;2;individuals
+79;PRC;Health;Safety;First Aid;1124;112402;;Finished;8;individuals
+80;PRC;Relief;Food Items;Food Items (2-3 day Ration 5-4-4);1124;112402;Dominga;Finished;46;families
+81;PRC;Relief;Food Items;Food Items (2-3 day Ration 5-4-4);1124;112402;Lamanan;Finished;33;families
+82;PRC;Relief;Hot Meals;Hot Meals;1124;112402;;Finished;170;individuals
+83;PRC;Relief;Hot Meals;Hot Meals;1124;112402;;Finished;480;individuals
+84;PRC;Relief;Hot Meals;Hot Meals;1124;112402;;Finished;150;individuals
+85;PRC;Relief;Hot Meals;Hot Meals;1124;112402;;Finished;430;individuals
+86;PRC;Relief;Hot Meals;Hot Meals;1124;112402;;Finished;201;individuals
+87;PRC;Relief;Hot Meals;Hot Meals;1124;112402;;Finished;205;individuals
+88;PRC;Relief;Food Items;Food Items (2-3 day Ration 5-4-4);1124;112402;Dominga;Finished;16;families
+89;PRC;Relief;Food Items;Food Items (2-3 day Ration 5-4-4);1124;112402;Lamanan;Finished;25;families
+90;PRC;Relief;Food Items;Food Items (2-3 day Ration 5-4-4);1124;112402;Mandug;Finished;117;families
+91;PRC;Relief;Food Items;Food Items (2-3 day Ration 5-4-4);1124;112402;Lacson;Finished;17;families
+92;PRC;Relief;Hot Meals;Hot Meals;1124;112402;19-B;Finished;288;individuals
+93;PRC;Relief;Hot Meals;Hot Meals;1124;112402;Tigato;Finished;150;individuals
+94;PRC;Health;Health;BP Taking;1124;112402;;Finished;28;individuals
+95;PRC;Health;Health;BP Taking;1124;112402;9-A;Finished;54;individuals
+96;PRC;Health;Health;BP Taking;1124;112402;10-A;Finished;40;individuals
+97;PRC;Health;Health;BP Taking;1124;112402;5-A;Finished;85;individuals
+98;PRC;Health;Health;BP Taking;1124;112402;Mandug;Finished;24;individuals
+99;PRC;Health;Health;BP Taking;1124;112402;;Finished;60;individuals
+100;PRC;Health;Health;BP Taking;1124;112402;Waan;Finished;19;individuals
+101;PRC;Health;Health;BP Taking;1124;112402;Tigato;Finished;27;individuals
+102;PRC;Health;Safety;First Aid;1124;112402;;Finished;1;individuals
+103;PRC;Health;Safety;First Aid;1124;112402;;Finished;8;individuals
+104;PRC;Health;Safety;First Aid;1124;112402;;Finished;2;individuals
+105;PRC;Welfare;PSS;PSP;972;97223;;Finished;21;individuals
+106;PRC;Assessment;Assessment;Assessment;972;97223;;Finished;1;activity
+107;PRC;Welfare;PSS;PSP;972;97223;Canupong;Finished;14;individuals
+108;IFRC;Relief;Non-Food Items;Clothings;972;97223;Sibalic;Finished;26;families
+109;IFRC;WASH;Non-Food Items;Hygiene Kit;972;97223;Sibalic;Finished;26;families
+110;IFRC;Relief;Non-Food Items;Clothings;972;97223;Panganuran;Finished;95;families
+111;IFRC;WASH;Non-Food Items;Hygiene Kit;972;97223;Panganuran;Finished;95;families
+112;PRC;Health;Health;Transported;1035;103504;;Finished;1;individuals
+113;PRC;Welfare;PSS;Welfare Desk;1035;103504;Hinaplanon;Finished;1;station
+114;PRC;Welfare;PSS;Welfare Desk;1035;103504;Tubod;Finished;1;station
+115;PRC;Welfare;PSS;Welfare Desk;1035;103504;Tubod;Finished;1;station
+116;PRC;Relief;Hot Meals;Hot Meals;1035;103504;;Finished;390;individuals
+117;PRC;Welfare;PSS;PSP;1035;103504;;Finished;383;individuals
+118;PRC;Welfare;PSS;PSP;1035;103504;;Finished;211;individuals
+120;PRC;Health;Safety;First Aid;1035;103504;;Finished;5;individuals
+121;PRC;Health;Health;BP Taking;1035;103504;;Finished;115;individuals
+122;PRC;Welfare;PSS;PSP;1035;103504;;Finished;874;individuals
+123;PRC;Assessment;Assessment;Assessment;983;98306;;Finished;1;activity
+124;PRC;Health;Safety;Rescued/Assisted;983;98306;Banker;Finished;50;individuals
+125;PRC;Assessment;Assessment;Assessment;1013;101309;;Finished;1;activity
+126;PRC;Assessment;Assessment;Assessment;972;97205;;Finished;1;activity
+127;IFRC;Relief;Non-Food Items;Clothings;972;97206;Baybay;Finished;75;families
+128;IFRC;WASH;Non-Food Items;Hygiene Kit;972;97206;Baybay;Finished;75;families
+129;IFRC;Relief;Non-Food Items;Clothings;972;97206;Candelaria;Finished;27;families
+130;IFRC;WASH;Non-Food Items;Hygiene Kit;972;97206;Candelaria;Finished;27;families
+131;IFRC;Relief;Non-Food Items;Clothings;972;97206;Kayok;Finished;60;families
+132;IFRC;WASH;Non-Food Items;Hygiene Kit;972;97206;Kayok;Finished;60;families
+133;PRC;Assessment;Assessment;Assessment;1536;153613;;Finished;1;activity
+134;PRC;Relief;Hot Meals;Hot Meals;1182;118206;;Finished;288;individuals
+135;PRC;Relief;Hot Meals;Hot Meals;1182;118208;;Finished;98;individuals
+136;PRC;Health;Safety;Rescued/Assisted;983;98313;;Finished;105;individuals
+137;PRC;Assessment;Assessment;Assessment;1035;103518;;Finished;1;activity
+138;Puregold;Relief;Food Items;Food Items (Assorted/Xmas Package);1035;103518;;Finished;293;families
+139;IFRC;Relief;Non-Food Items;Sleeping Kit (Blanket);1035;103518;;Finished;293;families
+140;IFRC;Relief;Non-Food Items;Sleeping Kit (Mat);1035;103518;;Finished;293;families
+141;IFRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);1035;103518;;Finished;293;families
+142;IFRC;WASH;Non-Food Items;Jerry Can (10L);1035;103518;;Finished;293;families
+143;IFRC;WASH;Non-Food Items;Hygiene Kit;1035;103518;;Finished;293;families
+144;IFRC;Relief;Non-Food Items;Tarpaulin;1035;103518;;Finished;293;families
+145;IFRC;Relief;Cash;Cash-for-Relief 3,000;1035;103518;;Finished;293;families
+147;PRC;Assessment;Assessment;Assessment;1013;101318;;Finished;1;activity
+148;PRC;Assessment;Assessment;Assessment;972;97219;;Finished;1;activity
+149;PRC;Assessment;Assessment;Assessment;972;97220;;Finished;1;activity
+150;PRC;Relief;Hot Meals;Hot Meals;1667;166724;Taft;Finished;38;individuals
+151;PRC;Welfare;PSS;PSP;1667;166724;Taft;Finished;638;individuals
+152;PRC;Welfare;PSS;Welfare Desk;1667;166724;Lipata;Finished;1;station
+153;PRC;Welfare;PSS;Welfare Desk;1667;166724;San Mariano;Finished;1;station
+155;PRC;Relief;Hot Meals;Hot Meals;1667;166724;;Finished;387;individuals
+156;PRC;Health;Health;BP Taking;1667;166724;;Finished;92;individuals
+157;PRC;Relief;Hot Meals;Hot Meals;712;71242;;Finished;54;individuals
+158;PRC;Welfare;PSS;Welfare Desk;712;71242;;Finished;1;desk
+159;PRC;Assessment;Assessment;Assessment;1013;101320;;Finished;1;activity
+160;PRC;Assessment;Assessment;Assessment;1035;103522;;Finished;1;activity
+161;PRC;Welfare;PSS;PSP;1035;103522;Dalama;Finished;201;individuals
+162;Puregold;Relief;Food Items;Food Items (Assorted/Xmas Package);1035;103522;Dalama;Finished;127;families
+163;PRC;Welfare;PSS;PSP;1035;103522;Dalama;Finished;83;individuals
+164;PRC;Welfare;PSS;PSP;1035;103522;Dalama;Finished;101;individuals
+165;IFRC;Relief;Non-Food Items;Sleeping Kit (Blanket);1035;103522;Dalama;Finished;115;families
+166;IFRC;Relief;Non-Food Items;Sleeping Kit (Mat);1035;103522;Dalama;Finished;115;families
+167;IFRC;Relief;Non-Food Items;Sleeping Kit (Mosquito Net);1035;103522;Dalama;Finished;115;families
+168;IFRC;WASH;Non-Food Items;Jerry Can (10L);1035;103522;Dalama;Finished;115;families
+169;IFRC;WASH;Non-Food Items;Hygiene Kit;1035;103522;Dalama;Finished;115;families
+170;IFRC;Relief;Cash;Cash-for-Relief 3,000;1035;103522;Dalama;Finished;115;families
+171;PRC;Assessment;Assessment;Assessment;1536;153629;;Finished;1;activity
+173;PRC;Welfare;PSS;Welfare Desk;972;97332;;Finished;1;desk
+174;PRC;Relief;Hot Meals;Hot Meals;712;;Tagbilaran;Finished;75;individuals
+175;PRC;Relief;Water;Bottled Water;712;;;Finished;162;individuals
+176;PRC;Relief;Hot Meals;Hot Meals;712;;;Finished;33;individuals
+177;PRC;Relief;Hot Meals;Hot Meals;1013;;;Finished;117;individuals
+178;PRC;Relief;Hot Meals;Hot Meals;722;;;Finished;184;individuals
+179;PRC;Relief;Hot Meals;Hot Meals;1182;;San Juan;Finished;155;individuals
+180;PRC;Relief;Hot Meals;Hot Meals;1182;;Magsaysay;Finished;211;individuals
+181;PRC;Welfare;PSS;Welfare Desk;1182;;;Finished;1;desk
+182;PRC;Relief;Hot Meals;Hot Meals;1123;;;Finished;2100;individuals
+183;PRC;Welfare;PSS;PSP;1123;;;Finished;14;individuals
+184;PRC;Health;Health;Rescued/Assisted;1035;;;Finished;40;individuals
+185;PRC;Welfare;PSS;Welfare Desk;1035;;;Finished;1;station
+186;PRC;Welfare;PSS;Welfare Desk;1035;;;Finished;1;station
+187;PRC;Welfare;PSS;Welfare Desk;1035;;;Finished;1;station
+188;PRC;Relief;Water;Bottled Water;1667;;;Finished;26;individuals
+189;PRC;Health;Health;Rescued/Assisted;972;;;Finished;15;individuals
+190;PRC;Relief;Water;Bottled Water;972;;;Finished;300;individuals
+191;PRC;Relief;Hot Meals;Bread;972;;;Finished;300;individuals
